@@ -79,8 +79,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
 
-## ✨ Credits
-Built and enhanced with ❤️ for the EV community.
 
